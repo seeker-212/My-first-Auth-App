@@ -1,0 +1,350 @@
+# ==========================================
+# DEPENDENCIES
+# ==========================================
+node_modules/
+.pnp/
+.pnp.js
+
+# ==========================================
+# ENVIRONMENT VARIABLES & SECRETS
+# ==========================================
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# ==========================================
+# BUILD OUTPUTS
+# ==========================================
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+.vercel/
+.turbo/
+.cache/
+
+# ==========================================
+# LOG FILES
+# ==========================================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ==========================================
+# TESTING & COVERAGE
+# ==========================================
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
+jest/
+*.lcov
+
+# ==========================================
+# TYPESCRIPT
+# ==========================================
+*.tsbuildinfo
+
+# ==========================================
+# IDE & EDITORS
+# ==========================================
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ==========================================
+# OPERATING SYSTEM FILES
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ==========================================
+# DEBUGGING
+# ==========================================
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.stackdump
+
+# ==========================================
+# NEXT.JS
+# ==========================================
+.next/
+out/
+
+# ==========================================
+# NESTJS / NODE
+# ==========================================
+dist/
+node_modules/
+.nest/
+
+# ==========================================
+# PRISMA
+# ==========================================
+# Uncomment if you generate Prisma client outside node_modules
+# prisma/generated/
+
+# ==========================================
+# DATABASE FILES
+# ==========================================
+*.sqlite
+*.sqlite3
+*.db
+
+# ==========================================
+# PYTHON
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ==========================================
+# DOCKER
+# ==========================================
+.docker/
+
+# ==========================================
+# TEMPORARY FILES
+# ==========================================
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ==========================================
+# DEPLOYMENT
+# ==========================================
+.vercel/
+.netlify/
+.serverless/
+.firebase/
+
+# ==========================================
+# PACKAGE MANAGERS
+# ==========================================
+.npm/
+.yarn/*
+!.yarn/patches/
+!.yarn/plugins/
+!.yarn/releases/
+!.yarn/sdks/
+!.yarn/versions/
+
+# ==========================================
+# LOCAL CONFIGURATION
+# ==========================================
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ==========================================
+# UPLOADS & USER DATA
+# ==========================================
+uploads/
+storage/# ==========================================
+# DEPENDENCIES
+# ==========================================
+node_modules/
+.pnp/
+.pnp.js
+
+# ==========================================
+# ENVIRONMENT VARIABLES & SECRETS
+# ==========================================
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# ==========================================
+# BUILD OUTPUTS
+# ==========================================
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+.vercel/
+.turbo/
+.cache/
+
+# ==========================================
+# LOG FILES
+# ==========================================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ==========================================
+# TESTING & COVERAGE
+# ==========================================
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
+jest/
+*.lcov
+
+# ==========================================
+# TYPESCRIPT
+# ==========================================
+*.tsbuildinfo
+
+# ==========================================
+# IDE & EDITORS
+# ==========================================
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ==========================================
+# OPERATING SYSTEM FILES
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ==========================================
+# DEBUGGING
+# ==========================================
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.stackdump
+
+# ==========================================
+# NEXT.JS
+# ==========================================
+.next/
+out/
+
+# ==========================================
+# NESTJS / NODE
+# ==========================================
+dist/
+node_modules/
+.nest/
+
+# ==========================================
+# PRISMA
+# ==========================================
+# Uncomment if you generate Prisma client outside node_modules
+# prisma/generated/
+
+# ==========================================
+# DATABASE FILES
+# ==========================================
+*.sqlite
+*.sqlite3
+*.db
+
+# ==========================================
+# PYTHON
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ==========================================
+# DOCKER
+# ==========================================
+.docker/
+
+# ==========================================
+# TEMPORARY FILES
+# ==========================================
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ==========================================
+# DEPLOYMENT
+# ==========================================
+.vercel/
+.netlify/
+.serverless/
+.firebase/
+
+# ==========================================
+# PACKAGE MANAGERS
+# ==========================================
+.npm/
+.yarn/*
+!.yarn/patches/
+!.yarn/plugins/
+!.yarn/releases/
+!.yarn/sdks/
+!.yarn/versions/
+
+# ==========================================
+# LOCAL CONFIGURATION
+# ==========================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ==========================================
+# UPLOADS & USER DATA
+# ==========================================
+uploads/
+storage/
